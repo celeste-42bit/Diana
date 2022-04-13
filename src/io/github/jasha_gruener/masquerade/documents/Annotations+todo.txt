@@ -1,0 +1,7 @@
+Annotations + ToDo
+
+- Learn how to integrate Python code into here
+
+- Learn how to create, read and write .txt and/or .yml files with java (and which libraries to use)
+
+- Learn how to implement installable plugins (plug and play)

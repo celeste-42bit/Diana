@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="diana_v0_4_1_B305_EXEC_indev:jar">
+    <output-path>$PROJECT_DIR$/../../</output-path>
+    <root id="archive" name="diana_v0_4_0_B300_EXEC_indev.jar">
+      <element id="module-output" name="Vtm_bot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MgntUtils-1.5.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JDA-4.2.0_241-withDependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,1 @@
+package io.github.jasha_gruener.masquerade.bot;
