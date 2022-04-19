@@ -52,7 +52,7 @@ public class Settings {
      * Very bad.
      */
 
-    public static final String secretToken = "ODEwNTkwNTY5OTQ0MTg2ODkw.YCl3Sw._jxO7it9cQJVnt9VZs48CgjLorE";
+    public static final String secretToken = "";
 
 //----------------------------------------------------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ public class Settings {
      */
 
     public static final String version = "0.4.1";
-    public static final String build = "305";
+    public static final String build = "307";
     public static final String creator = "Caeleste aka. 73chn0";
     public static final String license = "MIT : Copyright © 2021-2022 celeste-42bit";
 
